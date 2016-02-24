@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Control">
+      <UniqueIdentifier>{862bb08d-2f75-45ea-9dce-f8b26c2f5a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DbCon">
+      <UniqueIdentifier>{2a3df3c4-b6fe-4920-95be-f56cadeaf3c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="List">
+      <UniqueIdentifier>{1926634c-95fc-4147-b682-1319c066bc6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LoginForm">
+      <UniqueIdentifier>{41c8c00b-ae7e-4fb8-a312-49ae2b445df9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MenuForm">
+      <UniqueIdentifier>{2d51024c-1f13-4c0d-9101-b2b8c29b0648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserForm">
+      <UniqueIdentifier>{3c12cccd-8860-44c9-b504-c6265673ad26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ClientForm">
+      <UniqueIdentifier>{70d7a1fc-79ee-4e73-b5e9-f197c21a5843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TableForm">
+      <UniqueIdentifier>{46c87054-de25-4346-9a05-babef742fe8f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Control\Control.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="DbCon\DbCon.cpp">
+      <Filter>DbCon</Filter>
+    </ClCompile>
+    <ClCompile Include="List\List.cpp">
+      <Filter>List</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginForm\LoginAction.cpp">
+      <Filter>LoginForm</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginForm\LoginDb.cpp">
+      <Filter>LoginForm</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginForm\LoginForm.cpp">
+      <Filter>LoginForm</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuForm\MenuAction.cpp">
+      <Filter>MenuForm</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuForm\MenuDb.cpp">
+      <Filter>MenuForm</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuForm\MenuForm.cpp">
+      <Filter>MenuForm</Filter>
+    </ClCompile>
+    <ClCompile Include="UserForm\UserAction.cpp">
+      <Filter>UserForm</Filter>
+    </ClCompile>
+    <ClCompile Include="UserForm\UserDb.cpp">
+      <Filter>UserForm</Filter>
+    </ClCompile>
+    <ClCompile Include="UserForm\UserForm.cpp">
+      <Filter>UserForm</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientForm\ClientAction.cpp">
+      <Filter>ClientForm</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientForm\ClientDb.cpp">
+      <Filter>ClientForm</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientForm\ClientForm.cpp">
+      <Filter>ClientForm</Filter>
+    </ClCompile>
+    <ClCompile Include="TableForm\TableAction.cpp">
+      <Filter>TableForm</Filter>
+    </ClCompile>
+    <ClCompile Include="TableForm\TableDb.cpp">
+      <Filter>TableForm</Filter>
+    </ClCompile>
+    <ClCompile Include="TableForm\TableForm.cpp">
+      <Filter>TableForm</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Control\Control.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="DbCon\DbCon.h">
+      <Filter>DbCon</Filter>
+    </ClInclude>
+    <ClInclude Include="List\List.h">
+      <Filter>List</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginForm\LoginAction.h">
+      <Filter>LoginForm</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginForm\LoginDb.h">
+      <Filter>LoginForm</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginForm\LoginForm.h">
+      <Filter>LoginForm</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuForm\MenuAction.h">
+      <Filter>MenuForm</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuForm\MenuDb.h">
+      <Filter>MenuForm</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuForm\MenuForm.h">
+      <Filter>MenuForm</Filter>
+    </ClInclude>
+    <ClInclude Include="UserForm\UserAction.h">
+      <Filter>UserForm</Filter>
+    </ClInclude>
+    <ClInclude Include="UserForm\UserDb.h">
+      <Filter>UserForm</Filter>
+    </ClInclude>
+    <ClInclude Include="UserForm\UserForm.h">
+      <Filter>UserForm</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientForm\ClientAction.h">
+      <Filter>ClientForm</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientForm\ClientDb.h">
+      <Filter>ClientForm</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientForm\ClientForm.h">
+      <Filter>ClientForm</Filter>
+    </ClInclude>
+    <ClInclude Include="TableForm\TableAction.h">
+      <Filter>TableForm</Filter>
+    </ClInclude>
+    <ClInclude Include="TableForm\TableDb.h">
+      <Filter>TableForm</Filter>
+    </ClInclude>
+    <ClInclude Include="TableForm\TableForm.h">
+      <Filter>TableForm</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
